@@ -15,7 +15,7 @@ def get_marker_distance(corners, marker_size, mtx, distortion):
     success, rotation_vector, translation_vector = cv2.solvePnP(marker_points, corners, mtx, distortion, False, cv2.SOLVEPNP_IPPE_SQUARE)
 
     translation_vector = [int(pos[0] * 1000) / 1000 for pos in translation_vector]
-    translation_vector = (translation_vector[0], translation_vector[1])
+    translation_vector = (translation_vector[1], translation_vector[0])
 
     #rotation_vector = [int(angle[0] * 10) / 10 for angle in rotation_vector]
     #rotation = rotation_vector[2]
