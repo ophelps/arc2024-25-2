@@ -1,0 +1,1 @@
+python /Tools/scripts/sitl-on-hardware/sitl-on-hw.py --board CubeBlack-SimOnHardWare --vehicle Copter --simclass MultiCopter --frame copter-X --defaults ./Tools/autotest/default_params/copter-X.parm --uploadloadupload
