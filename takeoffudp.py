@@ -3,7 +3,7 @@ import change_mode
 
 # Start a connection listening on a UDP port
 # 14551 is connection stream
-the_connection = mavutil.mavlink_connection('/dev/serial0', baud=57600)
+the_connection = mavutil.mavlink_connection('udpout:192.168.10.10:14550')
 
 # Wait for the first heartbeat
 #   This sets the system and component ID of remote system for the link

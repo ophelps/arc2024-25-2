@@ -62,6 +62,8 @@ def get_location(the_connection):
 def get_height(the_connection):
     print("heighty")
     location_message = the_connection.recv_match(type='LOCAL_POSITION_NED', blocking=True)
+    print("got message")
+    print(location_message)
     location_actual = -location_message.z
     print(location_message)
     print(location_actual)
