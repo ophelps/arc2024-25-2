@@ -1,6 +1,21 @@
 import Scan
 import takeoff
 import time
+from pymavlink import mavutil
+
+the_connection = mavutil.mavlink_connection('/dev/serial0', baud=57600)
+the_connection.wait_heartbeat()
+print("Heartbeat from system (system %u component %u)" % 
+        (the_connection.target_system, the_connection.target_component))
+
+
+current_mode = ""
+
+while "auto" not in current_mode.lower():
+    msg = the_connection.recv_match(type = 'HEARTBEAT', blocking = False)
+    if msg:
+        mode = mavutil.mode_string_v10(msg)
+        print(mode)
 
 
 scan_altitude_meters = 13
@@ -14,7 +29,12 @@ the_connection = takeoff.takeoff(altitude=scan_altitude_meters)
 
 while Scan.get_height(the_connection) < (scan_altitude_meters - takeoff_tolerance / 100) or len(tag_locations) < 3:
     print("Scanning for tags...")
-    tag_locations.update(Scan.scan_for_tags(the_connection))
+    try:
+        tag_locations.update(Scan.scan_for_tags(the_connection))
+    except:
+        takeoff.land()
+        exit()
+
     print(tag_locations)
 
 print("Tags found!")
@@ -27,7 +47,7 @@ for id in range(1, 4, 1):
         time.sleep(0.5)
 
     print("Landed")
-    time.sleep(1.5)
+    time.sleep(4)
 
     takeoff.takeoff(move_altitude_meters)
     while id != 3 and Scan.get_height(the_connection) < (move_altitude_meters - takeoff_tolerance / 100):
