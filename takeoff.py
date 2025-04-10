@@ -1,17 +1,7 @@
 from pymavlink import mavutil
 import change_mode 
 
-# Start a connection listening on a UDP port
-# 14551 is connection stream
-the_connection = mavutil.mavlink_connection('/dev/serial0', baud=57600)
-
-# Wait for the first heartbeat
-#   This sets the system and component ID of remote system for the link
-the_connection.wait_heartbeat()
-print("Heartbeat from system (system %u component %u)" % 
-        (the_connection.target_system, the_connection.target_component))
-
-def takeoff(altitude=1):
+def takeoff(the_connection, altitude=1):
         change_mode.change_mode(the_connection, "GUIDED")
         # arm/disarm
         # second num param is arm/disarm (1 arm, 0 disarm)
@@ -30,5 +20,5 @@ def takeoff(altitude=1):
 
         return the_connection
 
-def land():
+def land(the_connection):
         change_mode.change_mode(the_connection, "LAND")

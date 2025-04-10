@@ -24,7 +24,7 @@ takeoff_tolerance = 5
 
 tag_locations = {}
 
-the_connection = takeoff.takeoff(altitude=scan_altitude_meters)
+the_connection = takeoff.takeoff(the_connection, altitude=scan_altitude_meters)
 
 
 while Scan.get_height(the_connection) < (scan_altitude_meters - takeoff_tolerance / 100) or len(tag_locations) < 3:
@@ -32,7 +32,7 @@ while Scan.get_height(the_connection) < (scan_altitude_meters - takeoff_toleranc
     try:
         tag_locations.update(Scan.scan_for_tags(the_connection))
     except:
-        takeoff.land()
+        takeoff.land(the_connection)
         exit()
 
     print(tag_locations)
@@ -41,7 +41,7 @@ print("Tags found!")
 
 for id in range(1, 4, 1):
     Scan.go_to_tag(the_connection, tag_locations[id], altitude=1)
-    takeoff.land()
+    takeoff.land(the_connection)
     while Scan.get_height(the_connection) > 0.2:
         print("landing")
         time.sleep(0.5)
@@ -49,7 +49,7 @@ for id in range(1, 4, 1):
     print("Landed")
     time.sleep(4)
 
-    takeoff.takeoff(move_altitude_meters)
+    takeoff.takeoff(the_connection, move_altitude_meters)
     while id != 3 and Scan.get_height(the_connection) < (move_altitude_meters - takeoff_tolerance / 100):
         print("taking off")
         time.sleep(0.5)
