@@ -1,0 +1,4559 @@
+Started mission
+Importing modules...
+Started mission
+Importing modules...
+camera initialization complete
+Imports complete!
+Waiting for hardware connection
+Heartbeat from system (system 1 component 0)
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+Started mission
+Importing modules...
+camera initialization complete
+Imports complete!
+Waiting for hardware connection
+Heartbeat from system (system 1 component 0)
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+STABILIZE
+AUTO
+about to loiter
+GOT TO TAKEOFF
+Takeoff complete
+GOT ALTITUDE: 0.0007716361433267593 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.008168650791049004, 0.019567357376217842)meters
+{}
+GOT ALTITUDE: -0.511945366859436 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.007927638478577137, 0.03789269179105759)meters
+{}
+GOT ALTITUDE: -0.1935390681028366 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.021299319341778755, 0.04749142751097679)meters
+{}
+GOT ALTITUDE: -0.1575225293636322 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.04541078582406044, 0.05468354374170303)meters
+{}
+GOT ALTITUDE: -0.20299459993839264 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.0755060538649559, 0.05985859036445618)meters
+{}
+GOT ALTITUDE: -0.24996937811374664 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.10530544072389603, 0.05688302591443062)meters
+{}
+GOT ALTITUDE: -0.2883552610874176 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.12699778378009796, 0.05494261160492897)meters
+{}
+GOT ALTITUDE: -0.31756433844566345 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.14774802327156067, 0.062098536640405655)meters
+{}
+GOT ALTITUDE: -0.34126415848731995 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.17645247280597687, 0.06826336681842804)meters
+{}
+GOT ALTITUDE: -0.3540716767311096 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.20477038621902466, 0.07047063857316971)meters
+{}
+GOT ALTITUDE: -0.3634659945964813 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.2258971631526947, 0.06485273689031601)meters
+{}
+GOT ALTITUDE: -0.37320995330810547 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.2424444854259491, 0.062275633215904236)meters
+{}
+GOT ALTITUDE: -0.39300772547721863 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.2552686631679535, 0.05695997551083565)meters
+{}
+GOT ALTITUDE: -0.416877418756485 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.2651421129703522, 0.04867646098136902)meters
+{}
+GOT ALTITUDE: -0.4264977276325226 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.2804383337497711, 0.04877316206693649)meters
+{}
+GOT ALTITUDE: -0.4346235990524292 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.297552227973938, 0.04598410800099373)meters
+{}
+GOT ALTITUDE: -0.44123947620391846 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3231072425842285, 0.04519856348633766)meters
+{}
+GOT ALTITUDE: -0.45025527477264404 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.34826111793518066, 0.0470101535320282)meters
+{}
+GOT ALTITUDE: -0.4557255804538727 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3747246265411377, 0.05134129151701927)meters
+{}
+GOT ALTITUDE: -0.46854323148727417 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.39929699897766113, 0.053802572190761566)meters
+{}
+GOT ALTITUDE: -0.4907478094100952 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.41878241300582886, 0.04536525160074234)meters
+{}
+GOT ALTITUDE: -0.5060145258903503 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.4252287447452545, 0.03887602686882019)meters
+{}
+GOT ALTITUDE: -0.5037338137626648 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.4370529353618622, 0.04101429879665375)meters
+{}
+GOT ALTITUDE: -0.4745744466781616 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.4490838050842285, 0.038228556513786316)meters
+{}
+GOT ALTITUDE: -0.4648648798465729 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.4673280715942383, 0.03474024683237076)meters
+{}
+GOT ALTITUDE: -0.46732786297798157 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.48153212666511536, 0.030514216050505638)meters
+{}
+GOT ALTITUDE: -0.4721220135688782 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.4965898394584656, 0.017414242029190063)meters
+{}
+GOT ALTITUDE: -0.5006752014160156 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5200499892234802, 0.008709315210580826)meters
+{}
+GOT ALTITUDE: -0.5245014429092407 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5460948348045349, 0.00664514722302556)meters
+{}
+GOT ALTITUDE: -0.5208138823509216 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5711127519607544, 0.003000332973897457)meters
+{}
+GOT ALTITUDE: -0.5130760669708252 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5915272235870361, 0.004390659276396036)meters
+{}
+GOT ALTITUDE: -0.50577712059021 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6091673374176025, 0.007312251254916191)meters
+{}
+GOT ALTITUDE: -0.5112603902816772 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.62651127576828, 0.011939963325858116)meters
+{}
+GOT ALTITUDE: -0.5263118743896484 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6439912915229797, 0.013740431517362595)meters
+{}
+GOT ALTITUDE: -0.5376775860786438 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.654013454914093, 0.009465336799621582)meters
+{}
+GOT ALTITUDE: -0.5268905162811279 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6617958545684814, 0.00484568253159523)meters
+{}
+GOT ALTITUDE: -0.5174874067306519 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6746670007705688, 0.009709587320685387)meters
+{}
+GOT ALTITUDE: -0.5024414658546448 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6906599998474121, 0.013970817439258099)meters
+{}
+GOT ALTITUDE: -0.49728021025657654 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6957119107246399, 0.010718302801251411)meters
+{}
+GOT ALTITUDE: -0.4803318977355957 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6985731720924377, 0.009337717667222023)meters
+{}
+GOT ALTITUDE: -0.476083904504776 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7048831582069397, 0.005382613744586706)meters
+{}
+GOT ALTITUDE: -0.48310643434524536 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7099751234054565, 0.00588921969756484)meters
+{}
+GOT ALTITUDE: -0.4873756170272827 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7072639465332031, 0.011336673982441425)meters
+{}
+GOT ALTITUDE: -0.48547884821891785 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7081254124641418, 0.02017306536436081)meters
+{}
+GOT ALTITUDE: -0.4732286036014557 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7150729894638062, 0.030066778883337975)meters
+{}
+GOT ALTITUDE: -0.4713115096092224 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7254530787467957, 0.03367393836379051)meters
+{}
+GOT ALTITUDE: -0.46137601137161255 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.736011803150177, 0.045645102858543396)meters
+{}
+GOT ALTITUDE: -0.447502464056015 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7314791083335876, 0.04890916869044304)meters
+{}
+GOT ALTITUDE: -0.4248623251914978 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7229821681976318, 0.06027491018176079)meters
+{}
+GOT ALTITUDE: -0.40707024931907654 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7055702209472656, 0.07083858549594879)meters
+{}
+GOT ALTITUDE: -0.40159642696380615 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6874871253967285, 0.07721935212612152)meters
+{}
+GOT ALTITUDE: -0.3847676217556 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6769093871116638, 0.08430232107639313)meters
+{}
+GOT ALTITUDE: -0.3702888786792755 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6642172932624817, 0.09409284591674805)meters
+{}
+GOT ALTITUDE: -0.356624960899353 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6604802012443542, 0.10112740099430084)meters
+{}
+GOT ALTITUDE: -0.35094979405403137 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6563845276832581, 0.11447808146476746)meters
+{}
+GOT ALTITUDE: -0.35742518305778503 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6500940322875977, 0.12461265921592712)meters
+{}
+GOT ALTITUDE: -0.3736100494861603 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6426999568939209, 0.13516172766685486)meters
+{}
+GOT ALTITUDE: -0.3834867775440216 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6254275441169739, 0.14348368346691132)meters
+{}
+GOT ALTITUDE: -0.3976460099220276 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6054701805114746, 0.1514531373977661)meters
+{}
+GOT ALTITUDE: -0.4053820073604584 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.587076723575592, 0.16328629851341248)meters
+{}
+GOT ALTITUDE: -0.418578177690506 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5783376693725586, 0.16977888345718384)meters
+{}
+GOT ALTITUDE: -0.4255077540874481 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5629943609237671, 0.1760869324207306)meters
+{}
+GOT ALTITUDE: -0.43385323882102966 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5488463640213013, 0.18902085721492767)meters
+{}
+GOT ALTITUDE: -0.443104088306427 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5327982902526855, 0.19861245155334473)meters
+{}
+GOT ALTITUDE: -0.44768592715263367 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5223096609115601, 0.21522870659828186)meters
+{}
+GOT ALTITUDE: -0.4601856470108032 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5228437781333923, 0.23255655169487)meters
+{}
+GOT ALTITUDE: -0.467046320438385 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5261364579200745, 0.24914193153381348)meters
+{}
+GOT ALTITUDE: -0.4625035226345062 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5179462432861328, 0.261395663022995)meters
+{}
+GOT ALTITUDE: -0.4539047181606293 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5010495781898499, 0.26670894026756287)meters
+{}
+GOT ALTITUDE: -0.46011611819267273 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.48589158058166504, 0.2779177725315094)meters
+{}
+GOT ALTITUDE: -0.4646216034889221 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.47102516889572144, 0.29326722025871277)meters
+{}
+GOT ALTITUDE: -0.4707910418510437 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.4536745846271515, 0.30366191267967224)meters
+{}
+GOT ALTITUDE: -0.47009092569351196 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.43893641233444214, 0.3224908113479614)meters
+{}
+GOT ALTITUDE: -0.46843037009239197 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.42785125970840454, 0.3459359109401703)meters
+{}
+GOT ALTITUDE: -0.4845999479293823 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.41161710023880005, 0.36880558729171753)meters
+{}
+GOT ALTITUDE: -0.49160221219062805 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.40568244457244873, 0.3905685245990753)meters
+{}
+GOT ALTITUDE: -0.48546886444091797 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.39652690291404724, 0.4152134358882904)meters
+{}
+GOT ALTITUDE: -0.49108898639678955 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.38328906893730164, 0.4398501217365265)meters
+{}
+GOT ALTITUDE: -0.5046612024307251 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.37107130885124207, 0.4622645080089569)meters
+{}
+GOT ALTITUDE: -0.5231976509094238 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3629167675971985, 0.4882815480232239)meters
+{}
+GOT ALTITUDE: -0.5537749528884888 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3660334050655365, 0.5142173767089844)meters
+{}
+GOT ALTITUDE: -0.5823874473571777 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.37750208377838135, 0.5307011008262634)meters
+{}
+GOT ALTITUDE: -0.604219377040863 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.380420058965683, 0.5596265196800232)meters
+{}
+GOT ALTITUDE: -0.6059564352035522 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.38293251395225525, 0.5910698175430298)meters
+{}
+GOT ALTITUDE: -0.6163344383239746 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.37804532051086426, 0.6246567964553833)meters
+{}
+GOT ALTITUDE: -0.6252028346061707 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.37294936180114746, 0.6510570049285889)meters
+{}
+GOT ALTITUDE: -0.62328040599823 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3668990731239319, 0.675679624080658)meters
+{}
+GOT ALTITUDE: -0.5996106863021851 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.35400837659835815, 0.7046474814414978)meters
+{}
+GOT ALTITUDE: -0.5817028284072876 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3409762382507324, 0.7310569882392883)meters
+{}
+GOT ALTITUDE: -0.5629642605781555 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3252383768558502, 0.7504929304122925)meters
+{}
+GOT ALTITUDE: -0.5433839559555054 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3058599531650543, 0.7638530731201172)meters
+{}
+GOT ALTITUDE: -0.5299161672592163 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.30005404353141785, 0.7886088490486145)meters
+{}
+GOT ALTITUDE: -0.5140140652656555 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.29663804173469543, 0.8177089095115662)meters
+{}
+GOT ALTITUDE: -0.4982692003250122 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.2918231785297394, 0.840404212474823)meters
+{}
+GOT ALTITUDE: -0.4829035699367523 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.29486310482025146, 0.862557053565979)meters
+{}
+GOT ALTITUDE: -0.47579655051231384 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3018700182437897, 0.8816545009613037)meters
+{}
+GOT ALTITUDE: -0.4632642865180969 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3002645969390869, 0.9007884860038757)meters
+{}
+GOT ALTITUDE: -0.442093163728714 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.295786589384079, 0.911577582359314)meters
+{}
+GOT ALTITUDE: -0.43812134861946106 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.29288893938064575, 0.9217867255210876)meters
+{}
+GOT ALTITUDE: -0.43801552057266235 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.29579201340675354, 0.9281020760536194)meters
+{}
+GOT ALTITUDE: -0.44770947098731995 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.2999476194381714, 0.9285573959350586)meters
+{}
+GOT ALTITUDE: -0.4580850899219513 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.30295708775520325, 0.9368935823440552)meters
+{}
+GOT ALTITUDE: -0.46869269013404846 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.30874019861221313, 0.9425551891326904)meters
+{}
+GOT ALTITUDE: -0.473558634519577 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3187621533870697, 0.9455007910728455)meters
+{}
+GOT ALTITUDE: -0.4741782546043396 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.32988235354423523, 0.9559398889541626)meters
+{}
+GOT ALTITUDE: -0.4729078710079193 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.33523619174957275, 0.9688987731933594)meters
+{}
+GOT ALTITUDE: -0.47426533699035645 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3449276089668274, 0.9815549850463867)meters
+{}
+GOT ALTITUDE: -0.4762721657752991 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3554433584213257, 0.99284827709198)meters
+{}
+GOT ALTITUDE: -0.4652479588985443 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.3749498426914215, 1.001890778541565)meters
+{}
+GOT ALTITUDE: -0.4575161933898926 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.39769816398620605, 1.0118709802627563)meters
+{}
+GOT ALTITUDE: -0.4472464919090271 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.4127875566482544, 1.0176500082015991)meters
+{}
+GOT ALTITUDE: -0.4424300491809845 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.43032923340797424, 1.0262070894241333)meters
+{}
+GOT ALTITUDE: -0.43031957745552063 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.4510495960712433, 1.0397950410842896)meters
+{}
+GOT ALTITUDE: -0.4315565526485443 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.47835078835487366, 1.0592032670974731)meters
+{}
+GOT ALTITUDE: -0.4322325587272644 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5110068321228027, 1.0792216062545776)meters
+{}
+GOT ALTITUDE: -0.4285275340080261 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5406491756439209, 1.0928548574447632)meters
+{}
+GOT ALTITUDE: -0.4261528253555298 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5551086068153381, 1.101737141609192)meters
+{}
+GOT ALTITUDE: -0.4055864214897156 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.570024311542511, 1.1131644248962402)meters
+{}
+GOT ALTITUDE: -0.38515788316726685 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.5912324786186218, 1.1278913021087646)meters
+{}
+GOT ALTITUDE: -0.38321688771247864 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6084592342376709, 1.1410844326019287)meters
+{}
+GOT ALTITUDE: -0.3887642025947571 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6263679265975952, 1.14972722530365)meters
+{}
+GOT ALTITUDE: -0.37863901257514954 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6540393829345703, 1.162343144416809)meters
+{}
+GOT ALTITUDE: -0.35661906003952026 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.6863921284675598, 1.1731717586517334)meters
+{}
+GOT ALTITUDE: -0.3454151153564453 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7179129719734192, 1.1780704259872437)meters
+{}
+GOT ALTITUDE: -0.3452039062976837 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7429372072219849, 1.18947434425354)meters
+{}
+GOT ALTITUDE: -0.344984233379364 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7656790614128113, 1.1928173303604126)meters
+{}
+GOT ALTITUDE: -0.3433784246444702 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.7852125763893127, 1.2084022760391235)meters
+{}
+GOT ALTITUDE: -0.34614649415016174 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.8053470849990845, 1.220220685005188)meters
+{}
+GOT ALTITUDE: -0.340802937746048 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.8215450048446655, 1.2367868423461914)meters
+{}
+GOT ALTITUDE: -0.32670947909355164 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.8363139629364014, 1.2536174058914185)meters
+{}
+GOT ALTITUDE: -0.3139689266681671 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.8470014929771423, 1.2757662534713745)meters
+{}
+GOT ALTITUDE: -0.3023485839366913 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.8613297939300537, 1.2917654514312744)meters
+{}
+GOT ALTITUDE: -0.3026994466781616 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.8772730827331543, 1.2979390621185303)meters
+{}
+GOT ALTITUDE: -0.3194471597671509 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.9047394394874573, 1.3054773807525635)meters
+{}
+GOT ALTITUDE: -0.3282591700553894 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.9346333742141724, 1.308820366859436)meters
+{}
+GOT ALTITUDE: -0.34155377745628357 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.9707959890365601, 1.326366901397705)meters
+{}
+GOT ALTITUDE: -0.3600427508354187 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (0.9961734414100647, 1.3478806018829346)meters
+{}
+GOT ALTITUDE: -0.3827930986881256 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.0242483615875244, 1.368774175643921)meters
+{}
+GOT ALTITUDE: -0.40896114706993103 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.0453367233276367, 1.3864103555679321)meters
+{}
+GOT ALTITUDE: -0.41447561979293823 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.0691641569137573, 1.4042532444000244)meters
+{}
+GOT ALTITUDE: -0.41794005036354065 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.093903660774231, 1.419999361038208)meters
+{}
+GOT ALTITUDE: -0.42200347781181335 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.1210929155349731, 1.4344720840454102)meters
+{}
+GOT ALTITUDE: -0.4201182425022125 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.1549354791641235, 1.4462144374847412)meters
+{}
+GOT ALTITUDE: -0.4093870520591736 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.1893166303634644, 1.4640196561813354)meters
+{}
+GOT ALTITUDE: -0.388340562582016 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.2156730890274048, 1.4824177026748657)meters
+{}
+GOT ALTITUDE: -0.37974321842193604 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.2446287870407104, 1.4888314008712769)meters
+{}
+GOT ALTITUDE: -0.3791729509830475 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.2732537984848022, 1.4911595582962036)meters
+{}
+GOT ALTITUDE: -0.38602909445762634 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.3099045753479004, 1.500161051750183)meters
+{}
+GOT ALTITUDE: -0.3908194601535797 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.3453078269958496, 1.5109498500823975)meters
+{}
+GOT ALTITUDE: -0.3906765580177307 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.3814520835876465, 1.5239135026931763)meters
+{}
+GOT ALTITUDE: -0.37362954020500183 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.4191339015960693, 1.5414643287658691)meters
+{}
+GOT ALTITUDE: -0.3592904210090637 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.4512090682983398, 1.5566315650939941)meters
+{}
+GOT ALTITUDE: -0.3619081676006317 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.4787338972091675, 1.5691713094711304)meters
+{}
+GOT ALTITUDE: -0.37805241346359253 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.50896155834198, 1.5788450241088867)meters
+{}
+GOT ALTITUDE: -0.38734471797943115 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.5402183532714844, 1.5911121368408203)meters
+{}
+GOT ALTITUDE: -0.40223509073257446 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.5794697999954224, 1.5965027809143066)meters
+{}
+GOT ALTITUDE: -0.4050944447517395 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.6169135570526123, 1.5994528532028198)meters
+{}
+GOT ALTITUDE: -0.4009529650211334 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.657417893409729, 1.6095077991485596)meters
+{}
+GOT ALTITUDE: -0.4008471965789795 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.691965937614441, 1.6146436929702759)meters
+{}
+GOT ALTITUDE: -0.4071250855922699 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.7325066328048706, 1.6204397678375244)meters
+{}
+GOT ALTITUDE: -0.4208781123161316 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.775889277458191, 1.6196132898330688)meters
+{}
+GOT ALTITUDE: -0.4362950325012207 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.8223631381988525, 1.6182119846343994)meters
+{}
+GOT ALTITUDE: -0.44579318165779114 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.8672984838485718, 1.6259262561798096)meters
+{}
+GOT ALTITUDE: -0.4441651701927185 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.911965012550354, 1.6333435773849487)meters
+{}
+GOT ALTITUDE: -0.4288577735424042 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (1.964708685874939, 1.6330740451812744)meters
+{}
+GOT ALTITUDE: -0.4166778028011322 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.022041082382202, 1.6280100345611572)meters
+{}
+GOT ALTITUDE: -0.43011417984962463 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.0868256092071533, 1.6201947927474976)meters
+{}
+GOT ALTITUDE: -0.44073155522346497 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.152238607406616, 1.6193276643753052)meters
+{}
+GOT ALTITUDE: -0.4537600576877594 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.218363046646118, 1.6074669361114502)meters
+{}
+GOT ALTITUDE: -0.47077181935310364 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.298745632171631, 1.592397928237915)meters
+{}
+GOT ALTITUDE: -0.48584482073783875 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.385721445083618, 1.5805716514587402)meters
+{}
+GOT ALTITUDE: -0.5050336122512817 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.465627431869507, 1.5717694759368896)meters
+{}
+GOT ALTITUDE: -0.5221741795539856 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.544053554534912, 1.561597466468811)meters
+{}
+GOT ALTITUDE: -0.5250381827354431 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.6316192150115967, 1.5524297952651978)meters
+{}
+GOT ALTITUDE: -0.5274466276168823 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.7142083644866943, 1.538921594619751)meters
+{}
+GOT ALTITUDE: -0.5371308326721191 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.795433282852173, 1.5216426849365234)meters
+{}
+GOT ALTITUDE: -0.5179752707481384 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.8750998973846436, 1.5105458498001099)meters
+{}
+GOT ALTITUDE: -0.4977280795574188 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9539794921875, 1.4980709552764893)meters
+{}
+GOT ALTITUDE: -0.49209558963775635 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0379719734191895, 1.4796528816223145)meters
+{}
+GOT ALTITUDE: -0.48398613929748535 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1300439834594727, 1.4586982727050781)meters
+{}
+GOT ALTITUDE: -0.4822860658168793 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.2114858627319336, 1.4395257234573364)meters
+{}
+GOT ALTITUDE: -0.4939330816268921 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.285903215408325, 1.4218871593475342)meters
+{}
+GOT ALTITUDE: -0.5013269782066345 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.358307361602783, 1.4053969383239746)meters
+{}
+GOT ALTITUDE: -0.5050740838050842 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.43290376663208, 1.3788115978240967)meters
+{}
+GOT ALTITUDE: -0.5219628214836121 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.5075180530548096, 1.3465336561203003)meters
+{}
+GOT ALTITUDE: -0.5284711122512817 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.586984872817993, 1.3222500085830688)meters
+{}
+GOT ALTITUDE: -0.5335758328437805 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.6634788513183594, 1.2948944568634033)meters
+{}
+GOT ALTITUDE: -0.5406176447868347 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.7463202476501465, 1.2716631889343262)meters
+{}
+GOT ALTITUDE: -0.5408623814582825 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.832932949066162, 1.2387017011642456)meters
+{}
+GOT ALTITUDE: -0.5460167527198792 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.924618721008301, 1.2078489065170288)meters
+{}
+GOT ALTITUDE: -0.5586853623390198 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.018763542175293, 1.180895209312439)meters
+{}
+GOT ALTITUDE: -0.5847439169883728 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.115964889526367, 1.1529463529586792)meters
+{}
+GOT ALTITUDE: -0.5983881950378418 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.206755638122559, 1.1310718059539795)meters
+{}
+GOT ALTITUDE: -0.6074134111404419 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.287872791290283, 1.1025433540344238)meters
+{}
+GOT ALTITUDE: -0.6138775944709778 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.360492706298828, 1.077625036239624)meters
+{}
+GOT ALTITUDE: -0.6123499274253845 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.440499305725098, 1.0585572719573975)meters
+{}
+GOT ALTITUDE: -0.6097474694252014 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.513369560241699, 1.0434494018554688)meters
+{}
+GOT ALTITUDE: -0.6003457307815552 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.588750839233398, 1.0283997058868408)meters
+{}
+GOT ALTITUDE: -0.5891107320785522 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.666543960571289, 1.0126769542694092)meters
+{}
+GOT ALTITUDE: -0.584620475769043 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.7374444007873535, 0.9979976415634155)meters
+{}
+GOT ALTITUDE: -0.5804197192192078 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.7984418869018555, 0.9869393706321716)meters
+{}
+GOT ALTITUDE: -0.584044873714447 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.854660987854004, 0.9883112907409668)meters
+{}
+GOT ALTITUDE: -0.5754541158676147 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.9148454666137695, 0.9920702576637268)meters
+{}
+GOT ALTITUDE: -0.5657734274864197 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.972723960876465, 0.9957141876220703)meters
+{}
+GOT ALTITUDE: -0.54844731092453 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.02979850769043, 1.0041366815567017)meters
+{}
+GOT ALTITUDE: -0.5341895222663879 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.078540325164795, 1.0032175779342651)meters
+{}
+GOT ALTITUDE: -0.519956111907959 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.127487659454346, 1.0026417970657349)meters
+{}
+GOT ALTITUDE: -0.5068278312683105 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.181151390075684, 1.0047681331634521)meters
+{}
+GOT ALTITUDE: -0.49895673990249634 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.23090124130249, 1.0013580322265625)meters
+{}
+GOT ALTITUDE: -0.4777340888977051 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.284249782562256, 0.9932830929756165)meters
+{}
+GOT ALTITUDE: -0.47041189670562744 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.339037895202637, 0.9914889335632324)meters
+{}
+GOT ALTITUDE: -0.466256707906723 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.3919525146484375, 0.9946695566177368)meters
+{}
+GOT ALTITUDE: -0.4576807916164398 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.438717365264893, 0.9925929307937622)meters
+{}
+GOT ALTITUDE: -0.4498538672924042 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.489655494689941, 0.9920772910118103)meters
+{}
+GOT ALTITUDE: -0.43323931097984314 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.544149398803711, 0.9972715973854065)meters
+{}
+GOT ALTITUDE: -0.4288827180862427 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.588803291320801, 0.9991502165794373)meters
+{}
+GOT ALTITUDE: -0.42720866203308105 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.630374431610107, 0.9947999715805054)meters
+{}
+GOT ALTITUDE: -0.42587563395500183 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.67868709564209, 0.990289568901062)meters
+{}
+GOT ALTITUDE: -0.4303279519081116 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.722941875457764, 0.9849035739898682)meters
+{}
+GOT ALTITUDE: -0.4371597468852997 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.766444683074951, 0.9780961275100708)meters
+{}
+GOT ALTITUDE: -0.4376373589038849 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.812281131744385, 0.9728851914405823)meters
+{}
+GOT ALTITUDE: -0.43937617540359497 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.861773490905762, 0.967928946018219)meters
+{}
+GOT ALTITUDE: -0.45539402961730957 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.9110565185546875, 0.9649683237075806)meters
+{}
+GOT ALTITUDE: -0.47430822253227234 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.961971282958984, 0.9625764489173889)meters
+{}
+GOT ALTITUDE: -0.4872657060623169 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.012894153594971, 0.9652013778686523)meters
+{}
+GOT ALTITUDE: -0.5046595335006714 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.055602550506592, 0.9701606035232544)meters
+{}
+GOT ALTITUDE: -0.5015877485275269 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.092770099639893, 0.9744356870651245)meters
+{}
+GOT ALTITUDE: -0.4837159216403961 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.129436492919922, 0.9734846353530884)meters
+{}
+GOT ALTITUDE: -0.47136417031288147 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.168097972869873, 0.9737115502357483)meters
+{}
+GOT ALTITUDE: -0.4810612201690674 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.198625564575195, 0.9780827164649963)meters
+{}
+GOT ALTITUDE: -0.49611896276474 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.2273335456848145, 0.9790938496589661)meters
+{}
+GOT ALTITUDE: -0.5006727576255798 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.255773067474365, 0.9765077829360962)meters
+{}
+GOT ALTITUDE: -0.5069584250450134 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.2820281982421875, 0.9704323410987854)meters
+{}
+GOT ALTITUDE: -0.5161516070365906 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.304518222808838, 0.9665985703468323)meters
+{}
+GOT ALTITUDE: -0.5148100852966309 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.332691192626953, 0.9657142758369446)meters
+{}
+GOT ALTITUDE: -0.5195691585540771 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.3527750968933105, 0.9689853191375732)meters
+{}
+GOT ALTITUDE: -0.5118218064308167 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.369469165802002, 0.9764319658279419)meters
+{}
+GOT ALTITUDE: -0.5058329701423645 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.382535934448242, 0.9808874130249023)meters
+{}
+GOT ALTITUDE: -0.5130521655082703 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.394911289215088, 0.9963577389717102)meters
+{}
+GOT ALTITUDE: -0.5187783241271973 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.404567718505859, 1.0105303525924683)meters
+{}
+GOT ALTITUDE: -0.5182362198829651 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.404649257659912, 1.0178195238113403)meters
+{}
+GOT ALTITUDE: -0.5113884210586548 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.3936896324157715, 1.0202667713165283)meters
+{}
+GOT ALTITUDE: -0.5189410448074341 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.389972686767578, 1.03358793258667)meters
+{}
+GOT ALTITUDE: -0.5215598344802856 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.385746479034424, 1.0567699670791626)meters
+{}
+GOT ALTITUDE: -0.5241773724555969 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.3812971115112305, 1.0791966915130615)meters
+{}
+GOT ALTITUDE: -0.5183043479919434 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.374013900756836, 1.095453143119812)meters
+{}
+GOT ALTITUDE: -0.5227373242378235 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.36011266708374, 1.103602647781372)meters
+{}
+GOT ALTITUDE: -0.5258007049560547 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.339883804321289, 1.1308255195617676)meters
+{}
+GOT ALTITUDE: -0.5172526240348816 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.315136909484863, 1.161217451095581)meters
+{}
+GOT ALTITUDE: -0.5059354305267334 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.297806739807129, 1.1962934732437134)meters
+{}
+GOT ALTITUDE: -0.49351224303245544 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.266732215881348, 1.2348815202713013)meters
+{}
+GOT ALTITUDE: -0.48267510533332825 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.230581283569336, 1.268766164779663)meters
+{}
+GOT ALTITUDE: -0.46826815605163574 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.198919773101807, 1.3032219409942627)meters
+{}
+GOT ALTITUDE: -0.4615286588668823 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.158341407775879, 1.3365379571914673)meters
+{}
+GOT ALTITUDE: -0.4623873233795166 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.112749099731445, 1.370793342590332)meters
+{}
+GOT ALTITUDE: -0.4750208556652069 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.071752548217773, 1.4063215255737305)meters
+{}
+GOT ALTITUDE: -0.47874048352241516 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.033161163330078, 1.436261773109436)meters
+{}
+GOT ALTITUDE: -0.5009494423866272 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.991668701171875, 1.4662739038467407)meters
+{}
+GOT ALTITUDE: -0.5230783820152283 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.947263240814209, 1.4967581033706665)meters
+{}
+GOT ALTITUDE: -0.539699137210846 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.907723903656006, 1.5272231101989746)meters
+{}
+GOT ALTITUDE: -0.5389050841331482 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.869547367095947, 1.5614367723464966)meters
+{}
+GOT ALTITUDE: -0.5296054482460022 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.832418918609619, 1.6067492961883545)meters
+{}
+GOT ALTITUDE: -0.5210784673690796 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.790876865386963, 1.6561620235443115)meters
+{}
+GOT ALTITUDE: -0.5203514695167542 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.756118297576904, 1.700000286102295)meters
+{}
+GOT ALTITUDE: -0.5294492840766907 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.717446804046631, 1.7341676950454712)meters
+{}
+GOT ALTITUDE: -0.5282233357429504 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.672389507293701, 1.7669087648391724)meters
+{}
+GOT ALTITUDE: -0.5329416990280151 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.636022567749023, 1.8143891096115112)meters
+{}
+GOT ALTITUDE: -0.5390183329582214 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.600172519683838, 1.8631230592727661)meters
+{}
+GOT ALTITUDE: -0.5353996157646179 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.557554721832275, 1.905867099761963)meters
+{}
+GOT ALTITUDE: -0.5367406606674194 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.516855716705322, 1.945709228515625)meters
+{}
+GOT ALTITUDE: -0.5459150671958923 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.48020601272583, 1.9846118688583374)meters
+{}
+GOT ALTITUDE: -0.5579091310501099 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.443203449249268, 2.031228542327881)meters
+{}
+GOT ALTITUDE: -0.566767156124115 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.4079742431640625, 2.0676605701446533)meters
+{}
+GOT ALTITUDE: -0.5705223083496094 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.371975421905518, 2.098850727081299)meters
+{}
+GOT ALTITUDE: -0.5776852369308472 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.339232444763184, 2.1321792602539062)meters
+{}
+GOT ALTITUDE: -0.5823310017585754 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.309601783752441, 2.1618459224700928)meters
+{}
+GOT ALTITUDE: -0.6007657051086426 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.274385929107666, 2.1860692501068115)meters
+{}
+GOT ALTITUDE: -0.6101384162902832 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.230696678161621, 2.2154743671417236)meters
+{}
+GOT ALTITUDE: -0.6146677732467651 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.193648815155029, 2.2478904724121094)meters
+{}
+GOT ALTITUDE: -0.6192881464958191 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.165592193603516, 2.277966022491455)meters
+{}
+GOT ALTITUDE: -0.6210424304008484 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.130159378051758, 2.3072564601898193)meters
+{}
+GOT ALTITUDE: -0.6178582310676575 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.093233108520508, 2.3236796855926514)meters
+{}
+GOT ALTITUDE: -0.6216639280319214 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.05555534362793, 2.342386245727539)meters
+{}
+GOT ALTITUDE: -0.6163086891174316 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.021461009979248, 2.3599750995635986)meters
+{}
+GOT ALTITUDE: -0.5997682213783264 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.993503093719482, 2.3846237659454346)meters
+{}
+GOT ALTITUDE: -0.5962300300598145 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.9662766456604, 2.4168593883514404)meters
+{}
+GOT ALTITUDE: -0.6005733013153076 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.936641693115234, 2.44667911529541)meters
+{}
+GOT ALTITUDE: -0.6079577803611755 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.9089274406433105, 2.4735684394836426)meters
+{}
+GOT ALTITUDE: -0.5920495390892029 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.882935047149658, 2.5161023139953613)meters
+{}
+GOT ALTITUDE: -0.5781769156455994 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.846617221832275, 2.552058458328247)meters
+{}
+GOT ALTITUDE: -0.5509676933288574 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.8043718338012695, 2.5842318534851074)meters
+{}
+GOT ALTITUDE: -0.5363608002662659 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.770547866821289, 2.6039130687713623)meters
+{}
+GOT ALTITUDE: -0.5212438106536865 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.73619270324707, 2.625708818435669)meters
+{}
+GOT ALTITUDE: -0.5017940998077393 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.70046329498291, 2.646307945251465)meters
+{}
+GOT ALTITUDE: -0.4953359365463257 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.6741414070129395, 2.6674609184265137)meters
+{}
+GOT ALTITUDE: -0.49479028582572937 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.644928932189941, 2.6842973232269287)meters
+{}
+GOT ALTITUDE: -0.4949817359447479 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.623255729675293, 2.695603370666504)meters
+{}
+GOT ALTITUDE: -0.4963887631893158 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.598476886749268, 2.7130143642425537)meters
+{}
+GOT ALTITUDE: -0.5049583911895752 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.575253963470459, 2.7367947101593018)meters
+{}
+GOT ALTITUDE: -0.5054303407669067 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.549854755401611, 2.7641992568969727)meters
+{}
+GOT ALTITUDE: -0.5013349652290344 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.522156715393066, 2.7932400703430176)meters
+{}
+GOT ALTITUDE: -0.5039259791374207 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.494662761688232, 2.815763235092163)meters
+{}
+GOT ALTITUDE: -0.5090345144271851 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.468317985534668, 2.8304193019866943)meters
+{}
+GOT ALTITUDE: -0.5045427083969116 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.439658164978027, 2.854145050048828)meters
+{}
+GOT ALTITUDE: -0.5024241209030151 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.40326452255249, 2.8701469898223877)meters
+{}
+GOT ALTITUDE: -0.4992663264274597 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.365520477294922, 2.8866126537323)meters
+{}
+GOT ALTITUDE: -0.4954576790332794 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.338228702545166, 2.903522491455078)meters
+{}
+GOT ALTITUDE: -0.49842002987861633 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.3124542236328125, 2.9141316413879395)meters
+{}
+GOT ALTITUDE: -0.506864607334137 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.281454086303711, 2.9242024421691895)meters
+{}
+GOT ALTITUDE: -0.5063123106956482 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.251602649688721, 2.930004835128784)meters
+{}
+GOT ALTITUDE: -0.5096620917320251 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.232911109924316, 2.9394915103912354)meters
+{}
+GOT ALTITUDE: -0.5163833498954773 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.216588020324707, 2.957005023956299)meters
+{}
+GOT ALTITUDE: -0.522518515586853 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.200387001037598, 2.9762237071990967)meters
+{}
+GOT ALTITUDE: -0.5339585542678833 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.176882266998291, 2.990915060043335)meters
+{}
+GOT ALTITUDE: -0.5401948094367981 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.155747413635254, 3.0028727054595947)meters
+{}
+GOT ALTITUDE: -0.5491761565208435 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.131296634674072, 3.018005609512329)meters
+{}
+GOT ALTITUDE: -0.5512462258338928 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.103457450866699, 3.035869598388672)meters
+{}
+GOT ALTITUDE: -0.5540719032287598 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.072453022003174, 3.055178642272949)meters
+{}
+GOT ALTITUDE: -0.554044783115387 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.034759998321533, 3.0723893642425537)meters
+{}
+GOT ALTITUDE: -0.5503230094909668 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.9900565147399902, 3.078279972076416)meters
+{}
+GOT ALTITUDE: -0.5514654517173767 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.948382616043091, 3.086709976196289)meters
+{}
+GOT ALTITUDE: -0.5348867177963257 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.906151294708252, 3.098472833633423)meters
+{}
+GOT ALTITUDE: -0.5293713808059692 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.863090991973877, 3.11017107963562)meters
+{}
+GOT ALTITUDE: -0.5358899235725403 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.812239646911621, 3.1252431869506836)meters
+{}
+GOT ALTITUDE: -0.5328357219696045 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.7662947177886963, 3.139927864074707)meters
+{}
+GOT ALTITUDE: -0.5208190679550171 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.7285070419311523, 3.1660449504852295)meters
+{}
+GOT ALTITUDE: -0.5151692628860474 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.702134609222412, 3.2004892826080322)meters
+{}
+GOT ALTITUDE: -0.5207238793373108 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.6660664081573486, 3.23003888130188)meters
+{}
+GOT ALTITUDE: -0.5281924605369568 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.6212921142578125, 3.2545723915100098)meters
+{}
+GOT ALTITUDE: -0.5357881784439087 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.5884509086608887, 3.284097194671631)meters
+{}
+GOT ALTITUDE: -0.5430638194084167 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.554854393005371, 3.3131186962127686)meters
+{}
+GOT ALTITUDE: -0.5521190762519836 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.5212817192077637, 3.329176425933838)meters
+{}
+GOT ALTITUDE: -0.5647034645080566 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.4835386276245117, 3.333542585372925)meters
+{}
+GOT ALTITUDE: -0.5658816695213318 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.4401798248291016, 3.3421008586883545)meters
+{}
+GOT ALTITUDE: -0.5567869544029236 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.4038922786712646, 3.3527209758758545)meters
+{}
+GOT ALTITUDE: -0.5612815618515015 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.369987964630127, 3.371497631072998)meters
+{}
+GOT ALTITUDE: -0.5699888467788696 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.336122751235962, 3.3909051418304443)meters
+{}
+GOT ALTITUDE: -0.5787057876586914 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.2979085445404053, 3.408921003341675)meters
+{}
+GOT ALTITUDE: -0.5766156911849976 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.260241985321045, 3.413900852203369)meters
+{}
+GOT ALTITUDE: -0.5738129615783691 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.2225849628448486, 3.422438859939575)meters
+{}
+GOT ALTITUDE: -0.5781087279319763 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.188162088394165, 3.440610408782959)meters
+{}
+GOT ALTITUDE: -0.5712939500808716 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1671416759490967, 3.4613037109375)meters
+{}
+GOT ALTITUDE: -0.5617051720619202 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.142703056335449, 3.4744482040405273)meters
+{}
+GOT ALTITUDE: -0.5531452894210815 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1226468086242676, 3.4724080562591553)meters
+{}
+GOT ALTITUDE: -0.5518439412117004 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.103299856185913, 3.4674129486083984)meters
+{}
+GOT ALTITUDE: -0.5576603412628174 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0836191177368164, 3.4549643993377686)meters
+{}
+GOT ALTITUDE: -0.5657452940940857 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.065973997116089, 3.4452085494995117)meters
+{}
+GOT ALTITUDE: -0.5696933269500732 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0554683208465576, 3.4360556602478027)meters
+{}
+GOT ALTITUDE: -0.5706765651702881 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.04508900642395, 3.4358091354370117)meters
+{}
+GOT ALTITUDE: -0.5726781487464905 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.04067063331604, 3.4378507137298584)meters
+{}
+GOT ALTITUDE: -0.5775740742683411 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.038367986679077, 3.4389147758483887)meters
+{}
+GOT ALTITUDE: -0.5899577140808105 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.037386894226074, 3.437581777572632)meters
+{}
+GOT ALTITUDE: -0.5913946032524109 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.03965425491333, 3.4319729804992676)meters
+{}
+GOT ALTITUDE: -0.592531681060791 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0496127605438232, 3.4246153831481934)meters
+{}
+GOT ALTITUDE: -0.6032402515411377 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0624120235443115, 3.41746187210083)meters
+{}
+GOT ALTITUDE: -0.6340720653533936 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0736982822418213, 3.411198616027832)meters
+{}
+GOT ALTITUDE: -0.65071040391922 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0811069011688232, 3.406212091445923)meters
+{}
+GOT ALTITUDE: -0.671943724155426 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0783653259277344, 3.410618782043457)meters
+{}
+GOT ALTITUDE: -0.6753840446472168 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0711419582366943, 3.4039244651794434)meters
+{}
+GOT ALTITUDE: -0.6811586618423462 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0625014305114746, 3.389033079147339)meters
+{}
+GOT ALTITUDE: -0.6897711753845215 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.057117462158203, 3.38088321685791)meters
+{}
+GOT ALTITUDE: -0.700005054473877 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0569040775299072, 3.3674674034118652)meters
+{}
+GOT ALTITUDE: -0.7093152403831482 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0395143032073975, 3.3480706214904785)meters
+{}
+GOT ALTITUDE: -0.708461582660675 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0178887844085693, 3.3425657749176025)meters
+{}
+GOT ALTITUDE: -0.7068529725074768 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0106489658355713, 3.339642286300659)meters
+{}
+GOT ALTITUDE: -0.701830267906189 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0072176456451416, 3.3322789669036865)meters
+{}
+GOT ALTITUDE: -0.6968809366226196 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.009303569793701, 3.319262742996216)meters
+{}
+GOT ALTITUDE: -0.6886644959449768 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.007748603820801, 3.2993321418762207)meters
+{}
+GOT ALTITUDE: -0.676956057548523 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.989311695098877, 3.285348892211914)meters
+{}
+GOT ALTITUDE: -0.6587710976600647 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.980034112930298, 3.275235891342163)meters
+{}
+GOT ALTITUDE: -0.64385586977005 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9753029346466064, 3.2666213512420654)meters
+{}
+GOT ALTITUDE: -0.6257662177085876 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.971672296524048, 3.2646408081054688)meters
+{}
+GOT ALTITUDE: -0.615827202796936 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9660935401916504, 3.2638914585113525)meters
+{}
+GOT ALTITUDE: -0.6088551878929138 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9645628929138184, 3.257953643798828)meters
+{}
+GOT ALTITUDE: -0.6035954356193542 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9543116092681885, 3.2509806156158447)meters
+{}
+GOT ALTITUDE: -0.587287962436676 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9511284828186035, 3.2422149181365967)meters
+{}
+GOT ALTITUDE: -0.5722892880439758 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9507009983062744, 3.228492021560669)meters
+{}
+GOT ALTITUDE: -0.5627263784408569 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.951573371887207, 3.2088708877563477)meters
+{}
+GOT ALTITUDE: -0.5642639994621277 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9503965377807617, 3.186626672744751)meters
+{}
+GOT ALTITUDE: -0.5499759912490845 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9444916248321533, 3.168595790863037)meters
+{}
+GOT ALTITUDE: -0.5471035838127136 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9431161880493164, 3.1456992626190186)meters
+{}
+GOT ALTITUDE: -0.5499697327613831 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9523959159851074, 3.1220550537109375)meters
+{}
+GOT ALTITUDE: -0.5523253083229065 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9648618698120117, 3.0949923992156982)meters
+{}
+GOT ALTITUDE: -0.5533711910247803 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (2.9857892990112305, 3.07002592086792)meters
+{}
+GOT ALTITUDE: -0.5625478029251099 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0060839653015137, 3.045612335205078)meters
+{}
+GOT ALTITUDE: -0.5777449011802673 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0307488441467285, 3.022801637649536)meters
+{}
+GOT ALTITUDE: -0.5852890610694885 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.0509800910949707, 3.0083677768707275)meters
+{}
+GOT ALTITUDE: -0.5803679823875427 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.071781635284424, 2.993194103240967)meters
+{}
+GOT ALTITUDE: -0.5879746675491333 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.100916624069214, 2.9750442504882812)meters
+{}
+GOT ALTITUDE: -0.5753195881843567 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1214592456817627, 2.9525763988494873)meters
+{}
+GOT ALTITUDE: -0.566042423248291 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1310646533966064, 2.9177939891815186)meters
+{}
+GOT ALTITUDE: -0.5496907830238342 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1401500701904297, 2.884577751159668)meters
+{}
+GOT ALTITUDE: -0.5235748887062073 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.14902925491333, 2.854135274887085)meters
+{}
+GOT ALTITUDE: -0.48773354291915894 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.161639451980591, 2.8196280002593994)meters
+{}
+GOT ALTITUDE: -0.4593072831630707 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.16690731048584, 2.780717372894287)meters
+{}
+GOT ALTITUDE: -0.4264183044433594 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.16825532913208, 2.740618944168091)meters
+{}
+GOT ALTITUDE: -0.39626333117485046 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1720361709594727, 2.7132015228271484)meters
+{}
+GOT ALTITUDE: -0.36561065912246704 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.179579496383667, 2.6783618927001953)meters
+{}
+GOT ALTITUDE: -0.34132876992225647 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1781156063079834, 2.648958683013916)meters
+{}
+GOT ALTITUDE: -0.3186977505683899 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.1853668689727783, 2.620846748352051)meters
+{}
+GOT ALTITUDE: -0.3068710267543793 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.192627429962158, 2.5845186710357666)meters
+{}
+GOT ALTITUDE: -0.2993229329586029 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.200806140899658, 2.5390288829803467)meters
+{}
+GOT ALTITUDE: -0.3079589009284973 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.213043689727783, 2.5042290687561035)meters
+{}
+GOT ALTITUDE: -0.2999025285243988 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.228973865509033, 2.47786545753479)meters
+{}
+GOT ALTITUDE: -0.29208606481552124 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.24233078956604, 2.4656894207000732)meters
+{}
+GOT ALTITUDE: -0.28563392162323 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.2512876987457275, 2.453813314437866)meters
+{}
+GOT ALTITUDE: -0.27718988060951233 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.267918586730957, 2.4348976612091064)meters
+{}
+GOT ALTITUDE: -0.2529642581939697 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.2830605506896973, 2.4050772190093994)meters
+{}
+GOT ALTITUDE: -0.24332334101200104 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.2960567474365234, 2.3756844997406006)meters
+{}
+GOT ALTITUDE: -0.24623781442642212 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.3196375370025635, 2.3506505489349365)meters
+{}
+GOT ALTITUDE: -0.2556818723678589 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.3500449657440186, 2.3238110542297363)meters
+{}
+GOT ALTITUDE: -0.2504051923751831 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.3800809383392334, 2.2990634441375732)meters
+{}
+GOT ALTITUDE: -0.2551591694355011 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.4115493297576904, 2.272273063659668)meters
+{}
+GOT ALTITUDE: -0.2614029347896576 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.443190813064575, 2.2316904067993164)meters
+{}
+GOT ALTITUDE: -0.2750541567802429 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.46467661857605, 2.194037675857544)meters
+{}
+GOT ALTITUDE: -0.2836780846118927 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.4929988384246826, 2.1674280166625977)meters
+{}
+GOT ALTITUDE: -0.28398028016090393 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.5237934589385986, 2.1482274532318115)meters
+{}
+GOT ALTITUDE: -0.28327107429504395 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.5587968826293945, 2.1236119270324707)meters
+{}
+GOT ALTITUDE: -0.27776968479156494 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.5893521308898926, 2.1006338596343994)meters
+{}
+GOT ALTITUDE: -0.26777714490890503 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.617664337158203, 2.0882210731506348)meters
+{}
+GOT ALTITUDE: -0.2537778913974762 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.6426055431365967, 2.072681188583374)meters
+{}
+GOT ALTITUDE: -0.25006169080734253 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.667630910873413, 2.0387518405914307)meters
+{}
+GOT ALTITUDE: -0.2506588101387024 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.7058892250061035, 2.009232521057129)meters
+{}
+GOT ALTITUDE: -0.25263556838035583 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.744011402130127, 1.9808565378189087)meters
+{}
+GOT ALTITUDE: -0.25871917605400085 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.7840609550476074, 1.9526690244674683)meters
+{}
+GOT ALTITUDE: -0.26050862669944763 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.820064067840576, 1.9206970930099487)meters
+{}
+GOT ALTITUDE: -0.2634401321411133 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.8580689430236816, 1.8911769390106201)meters
+{}
+GOT ALTITUDE: -0.27139824628829956 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.896376609802246, 1.869097113609314)meters
+{}
+GOT ALTITUDE: -0.2787010073661804 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.935403347015381, 1.8449231386184692)meters
+{}
+GOT ALTITUDE: -0.2926236093044281 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (3.9766080379486084, 1.821241021156311)meters
+{}
+GOT ALTITUDE: -0.3061099648475647 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.016018867492676, 1.797852873802185)meters
+{}
+GOT ALTITUDE: -0.30958130955696106 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.0430588722229, 1.7740143537521362)meters
+{}
+GOT ALTITUDE: -0.31664520502090454 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.075602054595947, 1.7538666725158691)meters
+{}
+GOT ALTITUDE: -0.32395997643470764 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.114925384521484, 1.730582594871521)meters
+{}
+GOT ALTITUDE: -0.34181758761405945 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.149200439453125, 1.706233024597168)meters
+{}
+GOT ALTITUDE: -0.3439510762691498 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.186013221740723, 1.690450668334961)meters
+{}
+GOT ALTITUDE: -0.3374426066875458 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.218830108642578, 1.6713494062423706)meters
+{}
+GOT ALTITUDE: -0.33854424953460693 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.249678134918213, 1.6518199443817139)meters
+{}
+GOT ALTITUDE: -0.33569133281707764 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.292812824249268, 1.6272666454315186)meters
+{}
+GOT ALTITUDE: -0.33149194717407227 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.34292459487915, 1.6059423685073853)meters
+{}
+GOT ALTITUDE: -0.33906280994415283 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.381350040435791, 1.5767532587051392)meters
+{}
+GOT ALTITUDE: -0.3494831323623657 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.420607566833496, 1.5531166791915894)meters
+{}
+GOT ALTITUDE: -0.3545466959476471 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.460475921630859, 1.5298346281051636)meters
+{}
+GOT ALTITUDE: -0.354793518781662 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.5017900466918945, 1.507838487625122)meters
+{}
+GOT ALTITUDE: -0.36154237389564514 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.541581153869629, 1.4872169494628906)meters
+{}
+GOT ALTITUDE: -0.3628356158733368 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.583599090576172, 1.469904899597168)meters
+{}
+GOT ALTITUDE: -0.34305036067962646 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.625889301300049, 1.4615459442138672)meters
+{}
+GOT ALTITUDE: -0.3280089199542999 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.659671783447266, 1.4503403902053833)meters
+{}
+GOT ALTITUDE: -0.3080745339393616 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.68402099609375, 1.4396628141403198)meters
+{}
+GOT ALTITUDE: -0.30086973309516907 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.709489345550537, 1.4255452156066895)meters
+{}
+GOT ALTITUDE: -0.3023090362548828 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.739236831665039, 1.4208472967147827)meters
+{}
+GOT ALTITUDE: -0.3057880401611328 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.764019012451172, 1.4135459661483765)meters
+{}
+GOT ALTITUDE: -0.30749034881591797 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.780759334564209, 1.402168869972229)meters
+{}
+GOT ALTITUDE: -0.29739096760749817 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.7967424392700195, 1.3980087041854858)meters
+{}
+GOT ALTITUDE: -0.2871876358985901 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.8111653327941895, 1.38758385181427)meters
+{}
+GOT ALTITUDE: -0.2727166712284088 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.823387145996094, 1.382063627243042)meters
+{}
+GOT ALTITUDE: -0.2651270925998688 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.845163822174072, 1.3717408180236816)meters
+{}
+GOT ALTITUDE: -0.2763967514038086 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.872880458831787, 1.3556104898452759)meters
+{}
+GOT ALTITUDE: -0.2896178662776947 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.898553371429443, 1.3452719449996948)meters
+{}
+GOT ALTITUDE: -0.3015762269496918 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.927215576171875, 1.3270779848098755)meters
+{}
+GOT ALTITUDE: -0.31196901202201843 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.962236404418945, 1.3083293437957764)meters
+{}
+GOT ALTITUDE: -0.3185092806816101 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.999334812164307, 1.2905845642089844)meters
+{}
+GOT ALTITUDE: -0.33581843972206116 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.034974098205566, 1.2696430683135986)meters
+{}
+GOT ALTITUDE: -0.35229021310806274 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.064172744750977, 1.2501708269119263)meters
+{}
+GOT ALTITUDE: -0.35501113533973694 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.090086460113525, 1.2323431968688965)meters
+{}
+GOT ALTITUDE: -0.3599433898925781 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.105137348175049, 1.2164649963378906)meters
+{}
+GOT ALTITUDE: -0.3703140616416931 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.122119903564453, 1.2043238878250122)meters
+{}
+GOT ALTITUDE: -0.3669765591621399 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.1441826820373535, 1.1880522966384888)meters
+{}
+GOT ALTITUDE: -0.3630005419254303 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.163369178771973, 1.1748740673065186)meters
+{}
+GOT ALTITUDE: -0.366407573223114 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.192842483520508, 1.1535768508911133)meters
+{}
+GOT ALTITUDE: -0.3609721064567566 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.226074695587158, 1.132270097732544)meters
+{}
+GOT ALTITUDE: -0.35512852668762207 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.2552595138549805, 1.1244395971298218)meters
+{}
+GOT ALTITUDE: -0.34858691692352295 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.281564235687256, 1.1113516092300415)meters
+{}
+GOT ALTITUDE: -0.3486805558204651 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.301546573638916, 1.095549464225769)meters
+{}
+GOT ALTITUDE: -0.3440931737422943 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.318896293640137, 1.074116587638855)meters
+{}
+GOT ALTITUDE: -0.3365437984466553 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.334254264831543, 1.0558961629867554)meters
+{}
+GOT ALTITUDE: -0.3299194276332855 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.357696056365967, 1.0286006927490234)meters
+{}
+GOT ALTITUDE: -0.34466519951820374 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.386422634124756, 1.0124006271362305)meters
+{}
+GOT ALTITUDE: -0.3636060655117035 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.412621974945068, 0.9932088255882263)meters
+{}
+GOT ALTITUDE: -0.3746011555194855 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.4325151443481445, 0.9758356809616089)meters
+{}
+GOT ALTITUDE: -0.3727961778640747 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.4622802734375, 0.9552559852600098)meters
+{}
+GOT ALTITUDE: -0.36887094378471375 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.502755641937256, 0.9313544631004333)meters
+{}
+GOT ALTITUDE: -0.37476399540901184 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.544107437133789, 0.9134061932563782)meters
+{}
+GOT ALTITUDE: -0.38080376386642456 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.587597370147705, 0.8868994116783142)meters
+{}
+GOT ALTITUDE: -0.389107882976532 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.636580467224121, 0.854459285736084)meters
+{}
+GOT ALTITUDE: -0.3951384127140045 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.686818599700928, 0.8311575651168823)meters
+{}
+GOT ALTITUDE: -0.39702534675598145 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.736281394958496, 0.8156647682189941)meters
+{}
+GOT ALTITUDE: -0.3783291280269623 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.779886245727539, 0.8024604916572571)meters
+{}
+GOT ALTITUDE: -0.37183645367622375 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.80900239944458, 0.7914313673973083)meters
+{}
+GOT ALTITUDE: -0.3603030741214752 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.829907417297363, 0.7765253782272339)meters
+{}
+GOT ALTITUDE: -0.3402675986289978 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.85008430480957, 0.7593679428100586)meters
+{}
+GOT ALTITUDE: -0.31978604197502136 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.866139888763428, 0.7397410869598389)meters
+{}
+GOT ALTITUDE: -0.30549952387809753 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.888596057891846, 0.7277132272720337)meters
+{}
+GOT ALTITUDE: -0.28000643849372864 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.91253137588501, 0.717712938785553)meters
+{}
+GOT ALTITUDE: -0.2676989734172821 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.932382106781006, 0.7098556756973267)meters
+{}
+GOT ALTITUDE: -0.2602534294128418 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.9535627365112305, 0.7030565142631531)meters
+{}
+GOT ALTITUDE: -0.24667876958847046 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.9810919761657715, 0.6917851567268372)meters
+{}
+GOT ALTITUDE: -0.23942328989505768 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.0018839836120605, 0.6805601119995117)meters
+{}
+GOT ALTITUDE: -0.2298290729522705 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.013906478881836, 0.6807206273078918)meters
+{}
+GOT ALTITUDE: -0.24398711323738098 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.03039026260376, 0.6861104965209961)meters
+{}
+GOT ALTITUDE: -0.27254197001457214 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.045873641967773, 0.6778369545936584)meters
+{}
+GOT ALTITUDE: -0.29436421394348145 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.0489606857299805, 0.6619763374328613)meters
+{}
+GOT ALTITUDE: -0.2935214936733246 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.0542497634887695, 0.6549474000930786)meters
+{}
+GOT ALTITUDE: -0.28646162152290344 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.056016445159912, 0.6494500041007996)meters
+{}
+GOT ALTITUDE: -0.26737019419670105 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.046257019042969, 0.6543485522270203)meters
+{}
+GOT ALTITUDE: -0.2503032684326172 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.026163101196289, 0.6695265173912048)meters
+{}
+GOT ALTITUDE: -0.23862607777118683 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (6.008636474609375, 0.6856055855751038)meters
+{}
+GOT ALTITUDE: -0.23210667073726654 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.986414909362793, 0.6963441371917725)meters
+{}
+GOT ALTITUDE: -0.233029305934906 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.960561275482178, 0.7063297033309937)meters
+{}
+GOT ALTITUDE: -0.22910428047180176 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.92728328704834, 0.7201880216598511)meters
+{}
+GOT ALTITUDE: -0.22927172482013702 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.892472267150879, 0.7281349301338196)meters
+{}
+GOT ALTITUDE: -0.2309771478176117 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.86195707321167, 0.7309932112693787)meters
+{}
+GOT ALTITUDE: -0.22876252233982086 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.825880527496338, 0.7300440073013306)meters
+{}
+GOT ALTITUDE: -0.2143564373254776 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.7882914543151855, 0.7318652868270874)meters
+{}
+GOT ALTITUDE: -0.20431503653526306 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.757768630981445, 0.7344338297843933)meters
+{}
+GOT ALTITUDE: -0.1913287490606308 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.726754188537598, 0.7329082489013672)meters
+{}
+GOT ALTITUDE: -0.1915932446718216 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.700366497039795, 0.7353745102882385)meters
+{}
+GOT ALTITUDE: -0.1910901963710785 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.676033020019531, 0.7315356731414795)meters
+{}
+GOT ALTITUDE: -0.18717995285987854 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.6555986404418945, 0.7279230356216431)meters
+{}
+GOT ALTITUDE: -0.17574545741081238 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.632429122924805, 0.7312096357345581)meters
+{}
+GOT ALTITUDE: -0.1674802005290985 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.609046936035156, 0.730538010597229)meters
+{}
+GOT ALTITUDE: -0.17233914136886597 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.587146282196045, 0.7323057055473328)meters
+{}
+GOT ALTITUDE: -0.17239408195018768 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.572430610656738, 0.726894199848175)meters
+{}
+GOT ALTITUDE: -0.15431717038154602 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.562500953674316, 0.722320020198822)meters
+{}
+GOT ALTITUDE: -0.14596183598041534 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.550665855407715, 0.7153408527374268)meters
+{}
+GOT ALTITUDE: -0.13268586993217468 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.527154445648193, 0.7206193208694458)meters
+{}
+GOT ALTITUDE: -0.1099543645977974 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.493484020233154, 0.7348515391349792)meters
+{}
+GOT ALTITUDE: -0.08012497425079346 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.465897083282471, 0.7436942458152771)meters
+{}
+GOT ALTITUDE: -0.06453205645084381 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.442565441131592, 0.7390019297599792)meters
+{}
+GOT ALTITUDE: -0.0544387623667717 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.429997444152832, 0.7336298227310181)meters
+{}
+GOT ALTITUDE: -0.04595859721302986 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.421857833862305, 0.7327980399131775)meters
+{}
+GOT ALTITUDE: -0.052834708243608475 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.411037445068359, 0.7280228734016418)meters
+{}
+GOT ALTITUDE: -0.06483221054077148 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.400613307952881, 0.7205542325973511)meters
+{}
+GOT ALTITUDE: -0.08031214028596878 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.382783889770508, 0.7152525782585144)meters
+{}
+GOT ALTITUDE: -0.08977378904819489 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.364115238189697, 0.7093895077705383)meters
+{}
+GOT ALTITUDE: -0.0994180291891098 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.34840202331543, 0.7048289179801941)meters
+{}
+GOT ALTITUDE: -0.11276279389858246 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.327495098114014, 0.7070297598838806)meters
+{}
+GOT ALTITUDE: -0.1274971067905426 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.304022312164307, 0.7079720497131348)meters
+{}
+GOT ALTITUDE: -0.13864761590957642 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.288516998291016, 0.7089358568191528)meters
+{}
+GOT ALTITUDE: -0.15297935903072357 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.274382591247559, 0.7065557837486267)meters
+{}
+GOT ALTITUDE: -0.1740422546863556 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.254893779754639, 0.6972658038139343)meters
+{}
+GOT ALTITUDE: -0.1826539933681488 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.233729362487793, 0.6937849521636963)meters
+{}
+GOT ALTITUDE: -0.18312174081802368 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.223080635070801, 0.6986632943153381)meters
+{}
+GOT ALTITUDE: -0.18702101707458496 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.211567401885986, 0.7046369910240173)meters
+{}
+GOT ALTITUDE: -0.19624221324920654 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.202477931976318, 0.7115026116371155)meters
+{}
+GOT ALTITUDE: -0.21593669056892395 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.188377380371094, 0.7137390971183777)meters
+{}
+GOT ALTITUDE: -0.23777343332767487 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.169281005859375, 0.7145741581916809)meters
+{}
+GOT ALTITUDE: -0.2503727376461029 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.157919406890869, 0.7158734202384949)meters
+{}
+GOT ALTITUDE: -0.26091596484184265 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.151525974273682, 0.7230745553970337)meters
+{}
+GOT ALTITUDE: -0.26787397265434265 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.13737678527832, 0.7304760813713074)meters
+{}
+GOT ALTITUDE: -0.27625250816345215 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.11142110824585, 0.7313958406448364)meters
+{}
+GOT ALTITUDE: -0.28604429960250854 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.085692882537842, 0.7337207794189453)meters
+{}
+GOT ALTITUDE: -0.30699631571769714 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.0596923828125, 0.7392933368682861)meters
+{}
+GOT ALTITUDE: -0.31942349672317505 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.022463798522949, 0.7424699068069458)meters
+{}
+GOT ALTITUDE: -0.31543901562690735 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.9826579093933105, 0.7486497163772583)meters
+{}
+GOT ALTITUDE: -0.3067401647567749 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.945348262786865, 0.7569629549980164)meters
+{}
+GOT ALTITUDE: -0.30254244804382324 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.905731201171875, 0.7647733688354492)meters
+{}
+GOT ALTITUDE: -0.31139305233955383 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.869699001312256, 0.7648096084594727)meters
+{}
+GOT ALTITUDE: -0.3259779214859009 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.835937023162842, 0.7641422152519226)meters
+{}
+GOT ALTITUDE: -0.3248627185821533 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.808437347412109, 0.7726340889930725)meters
+{}
+GOT ALTITUDE: -0.3227531611919403 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.782433986663818, 0.7835575342178345)meters
+{}
+GOT ALTITUDE: -0.3134816586971283 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.768026351928711, 0.788163959980011)meters
+{}
+GOT ALTITUDE: -0.31604236364364624 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.752286434173584, 0.7862735390663147)meters
+{}
+GOT ALTITUDE: -0.3150988221168518 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.734004020690918, 0.7769009470939636)meters
+{}
+GOT ALTITUDE: -0.3161926865577698 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.718135833740234, 0.7617303729057312)meters
+{}
+GOT ALTITUDE: -0.3195686638355255 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.701488494873047, 0.7559452056884766)meters
+{}
+GOT ALTITUDE: -0.32958200573921204 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.685096263885498, 0.7544258236885071)meters
+{}
+GOT ALTITUDE: -0.3292931616306305 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.673254013061523, 0.7418012619018555)meters
+{}
+GOT ALTITUDE: -0.33010488748550415 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.660562992095947, 0.72511225938797)meters
+{}
+GOT ALTITUDE: -0.32404929399490356 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.647459983825684, 0.7195291519165039)meters
+{}
+GOT ALTITUDE: -0.31380829215049744 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.63275671005249, 0.7080428004264832)meters
+{}
+GOT ALTITUDE: -0.3024078905582428 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.621223449707031, 0.6960790157318115)meters
+{}
+GOT ALTITUDE: -0.30719056725502014 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.619124412536621, 0.6926383972167969)meters
+{}
+GOT ALTITUDE: -0.32147157192230225 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.616326808929443, 0.6809061169624329)meters
+{}
+GOT ALTITUDE: -0.334227591753006 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.609932899475098, 0.6627839803695679)meters
+{}
+GOT ALTITUDE: -0.3407406806945801 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.609017372131348, 0.6469399333000183)meters
+{}
+GOT ALTITUDE: -0.3492446839809418 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.603448867797852, 0.6376186013221741)meters
+{}
+GOT ALTITUDE: -0.3630036413669586 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.5918402671813965, 0.6242445111274719)meters
+{}
+GOT ALTITUDE: -0.3679613173007965 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.578052997589111, 0.60369473695755)meters
+{}
+GOT ALTITUDE: -0.36139389872550964 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.566348552703857, 0.5842543244361877)meters
+{}
+GOT ALTITUDE: -0.3506116569042206 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.56693172454834, 0.5667914748191833)meters
+{}
+GOT ALTITUDE: -0.3434152901172638 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.576181888580322, 0.5402799844741821)meters
+{}
+GOT ALTITUDE: -0.33108997344970703 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.588868618011475, 0.5087229609489441)meters
+{}
+GOT ALTITUDE: -0.3192371428012848 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.599862575531006, 0.4823243319988251)meters
+{}
+GOT ALTITUDE: -0.31126734614372253 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.613083362579346, 0.4603140950202942)meters
+{}
+GOT ALTITUDE: -0.30316245555877686 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.633004188537598, 0.4331601560115814)meters
+{}
+GOT ALTITUDE: -0.3032930791378021 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.649592876434326, 0.40427660942077637)meters
+{}
+GOT ALTITUDE: -0.2946425974369049 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.669403076171875, 0.37649592757225037)meters
+{}
+GOT ALTITUDE: -0.2801557779312134 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.6868391036987305, 0.3485792279243469)meters
+{}
+GOT ALTITUDE: -0.2635665535926819 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.6997599601745605, 0.3266511559486389)meters
+{}
+GOT ALTITUDE: -0.2536199688911438 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.707919120788574, 0.3021654784679413)meters
+{}
+GOT ALTITUDE: -0.241956427693367 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.714896202087402, 0.2860930860042572)meters
+{}
+GOT ALTITUDE: -0.22487764060497284 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.73190975189209, 0.25835421681404114)meters
+{}
+GOT ALTITUDE: -0.2173052728176117 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.742147445678711, 0.23926608264446259)meters
+{}
+GOT ALTITUDE: -0.1963377445936203 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.747156143188477, 0.22718584537506104)meters
+{}
+GOT ALTITUDE: -0.15998199582099915 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.7483720779418945, 0.212894469499588)meters
+{}
+GOT ALTITUDE: -0.12453392148017883 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.7505950927734375, 0.1990737020969391)meters
+{}
+GOT ALTITUDE: -0.10407889634370804 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.763679027557373, 0.17929194867610931)meters
+{}
+GOT ALTITUDE: -0.08149176836013794 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.778890609741211, 0.15010450780391693)meters
+{}
+GOT ALTITUDE: -0.05819233879446983 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.791923999786377, 0.1291579306125641)meters
+{}
+GOT ALTITUDE: -0.03869118541479111 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.810083866119385, 0.11389452964067459)meters
+{}
+GOT ALTITUDE: -0.021859848871827126 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.822843551635742, 0.10413520783185959)meters
+{}
+GOT ALTITUDE: -0.008502861484885216 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.830803394317627, 0.09502539038658142)meters
+{}
+GOT ALTITUDE: 0.004889046307653189 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.837640285491943, 0.08678732812404633)meters
+{}
+GOT ALTITUDE: 0.01738666370511055 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.843524932861328, 0.07254243642091751)meters
+{}
+GOT ALTITUDE: 0.03264893591403961 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.857673168182373, 0.05510430037975311)meters
+{}
+GOT ALTITUDE: 0.03250911086797714 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.869750499725342, 0.03375336900353432)meters
+{}
+GOT ALTITUDE: 0.028787795454263687 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.8770623207092285, 0.01886427402496338)meters
+{}
+GOT ALTITUDE: 0.02330636791884899 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.885756492614746, 0.004046189598739147)meters
+{}
+GOT ALTITUDE: 0.019181083887815475 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.8935418128967285, -0.009771915152668953)meters
+{}
+GOT ALTITUDE: 0.0002603826578706503 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.901923179626465, -0.026135500520467758)meters
+{}
+GOT ALTITUDE: -0.02175992541015148 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.916243076324463, -0.03610484302043915)meters
+{}
+GOT ALTITUDE: -0.03342772275209427 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.935067176818848, -0.05145164579153061)meters
+{}
+GOT ALTITUDE: -0.037730228155851364 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.962185859680176, -0.06783921271562576)meters
+{}
+GOT ALTITUDE: -0.033267173916101456 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.982762336730957, -0.07174201309680939)meters
+{}
+GOT ALTITUDE: -0.03511027246713638 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.990769386291504, -0.07610461115837097)meters
+{}
+GOT ALTITUDE: -0.035277966409921646 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (4.9950385093688965, -0.07860793173313141)meters
+{}
+GOT ALTITUDE: -0.04545813798904419 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+Getting location of tags
+GOT LOCATION: (5.000412464141846, -0.08134966343641281)meters
+{}
+GOT ALTITUDE: -0.06290757656097412 meters
+Scanning for tags...
+Getting image
+Scanning for tags
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Started mission
+Importing modules...
+Started mission
+Importing modules...
+Started mission
+Importing modules...
+camera initialization complete
+Imports complete!
+Waiting for hardware connection
+Heartbeat from system (system 1 component 0)
+STABILIZE
+STABILIZE
+Started mission
+Importing modules...

@@ -2,6 +2,7 @@ from pymavlink import mavutil
 import change_mode 
 
 def takeoff(the_connection, altitude=1):
+        print("switching to guided")
         change_mode.change_mode(the_connection, "GUIDED")
         # arm/disarm
         # second num param is arm/disarm (1 arm, 0 disarm)
@@ -12,13 +13,10 @@ def takeoff(the_connection, altitude=1):
 
         # takeoff
         # last value is altitude
-        # FIX THIS
         the_connection.mav.command_long_send(the_connection.target_system, the_connection.target_component,
                                         mavutil.mavlink.MAV_CMD_NAV_TAKEOFF, 0, 1, 0, 0, 0, 0, 0, altitude)
         msg = the_connection.recv_match(type='COMMAND_ACK',blocking=True)
         print(msg)
-
-        return the_connection
 
 def land(the_connection):
         change_mode.change_mode(the_connection, "LAND")

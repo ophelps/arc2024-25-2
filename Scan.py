@@ -35,18 +35,22 @@ num = 0
 calibration_data = Unpacking.get_calibration_data()
 
 def scan_for_tags(the_connection):
+    print("Getting image")
     image = camera.capture_array()
+    with open("recentImage.jpg", "w") as recentImage:
+        recentImage.write(str(image))
+
+    print("Scanning for tags")
     corners, ids, _ = arucoDetector.detectMarkers(image)
-
+    print("Getting location of tags")
     location_actual = get_location(the_connection)
-
     
-
     if ids is None:
         return {}
     
     locations = {}
-
+    
+    print("Getting location of tags")
     for i in range(len(ids)):
         id = ids[i][0]
         if id >= 1 and id <= 3:
@@ -57,27 +61,25 @@ def scan_for_tags(the_connection):
 def get_location(the_connection):
     location_message = the_connection.recv_match(type='LOCAL_POSITION_NED', blocking=True)
     location_actual = (location_message.x, location_message.y)
+    #location_actual = (0, 0)
+    print("GOT LOCATION: " + str(location_actual) + "meters")
     return location_actual
 
 def get_height(the_connection):
-    print("heighty")
     location_message = the_connection.recv_match(type='LOCAL_POSITION_NED', blocking=True)
-    print("got message")
-    print(location_message)
     location_actual = -location_message.z
-    print(location_message)
-    print(location_actual)
+    print("GOT ALTITUDE: " + str(location_actual) + " meters")
     return location_actual
 
 def go_to_tag(the_connection, location_target, altitude=1, tolerance=1):
-    print("25")
+    print("Navigation to tag initiated")
     the_connection.mav.send(mavutil.mavlink.MAVLink_set_position_target_local_ned_message(10, the_connection.target_system, the_connection.target_component, mavutil.mavlink.MAV_FRAME_LOCAL_NED, int(0b110111111000), *location_target, -altitude, 0, 0, 0, 0, 0, 0, 0, 0))
     location_actual = get_location(the_connection)
-    print("30")
+    print("Initializing loop")
     while not abs(location_target[0] - location_actual[0]) < tolerance/100 and not abs(location_target[1] - location_actual[1]) < tolerance/100:
-        print("40")
+        print("Still navigating to tag...")
         location_actual = get_location(the_connection)
-        print("actual" + str(location_actual))
-        print("target" + str(location_target))
+        print("actual position: " + str(location_actual))
+        print("target position: " + str(location_target))
         time.sleep(0.01)
-    print("50")
+    print("Navigation to tag complete")
